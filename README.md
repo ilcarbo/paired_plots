@@ -6,3 +6,4 @@
 
 The resulting graphs are like this one:
 
+![alt text](https://github.com/ilcarbo/paired_plots/blob/master/example.png "Example graph 1")
